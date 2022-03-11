@@ -1,0 +1,107 @@
+*.suo
+Debug
+*.user
+bin
+obj
+packages
+/src/Storefront.Commerce/media
+/src/UpgradeLog2.htm
+/src/Storefront.Portal/RecaptchaNet.ReadMe.txt
+*.vpp~2
+*.vpp~3
+_bin_deployableAssemblies
+/src/Storefront.Commerce/2200IPF7I8documents/635469912099167746/Product_Test.csv
+/src/Storefront.Commerce/2200IPF7I8documents/635469912099167746/Product_Test.xlsx
+/src/Storefront.Commerce/mediadocuments/635470614658913977
+/src/Storefront.Commerce/mediadocuments/635470616986146649
+/src/Storefront.Commerce/mediadocuments/635470626153578097
+/src/Storefront.Commerce/mediadocuments/635470668077611201
+/src/Storefront.Commerce/mediadocuments/635470684693010448
+/src/Storefront.Commerce/mediadocuments/635470714777131241
+/src/Storefront.Commerce/mediadocuments/635470715438664400
+/src/Storefront.Commerce/mediadocuments/635470716619613515
+/src/Storefront.Commerce/mediadocuments/635470718873303711
+/src/Storefront.Commerce/mediadocuments/635470776419380456
+/src/Storefront.Commerce/mediadocuments/635470779768565915
+/src/Storefront.Commerce/images/favicon.png
+/src/Storefront.Commerce/Database.config
+/src/Storefront.Commerce/database.config
+*.coverage
+/src/.vs/config/applicationhost.config
+/src/Storefront.Commerce/Areas/Storefront.Plugin*
+/src/Presentation/Nop.Web/Plugins/DiscountRules.CustomerRoles/*
+/src/Presentation
+/src/Storefront.Commerce/Areas/Storefront.Plugin.DiscountCriteria.ByCustomerRole/Storefront.Plugin.DiscountCriteria.ByCustomerRole.dll
+/src/Storefront.Commerce/Modules/Storefront.Modules.CustomModule.dll
+/src/Storefront.Commerce/Modules/Storefront.Modules.Billing.dll
+/src/Storefront.Commerce/Modules/Storefront.Modules.Portal.dll
+/src/Storefront.Commerce/Modules/StoreFront.Modules.GlacierModule.dll
+/src/Storefront.Commerce/Modules/Storefront.Modules.SanlamModule.dll
+/src/Storefront.Commerce/Modules/Storefront.Modules.SantamModule.dll
+/src/Storefront.Commerce/Logs
+/src/Storefront.Commerce/BusbyError.txt
+/src/Storefront.Commerce/Modules/Storefront.Modules.KauaiEmailModule.dll
+/src/Storefront.Commerce/Modules
+/exclude.txt
+/src/Storefront.Commerce/Modules
+/src/Storefront.Commerce/Areas/bin/*
+/src/Storefront.Commerce/Modules/*
+/src/Storefront.Commerce/Modules/Storefront.Modules.BusbyModule.dll
+/src/Storefront.Commerce/App_Data/Install/MySql/Catalogue.sql
+/src/Storefront.Commerce/App_Data/Install/MySql/PricelistExport.Bronze.sql
+/src/Storefront.Commerce/App_Data/Install/MySql/PricelistExport.Carbon.sql
+/src/Storefront.Commerce/App_Data/Install/MySql/PricelistExport.Chrome.sql
+/src/Storefront.Commerce/App_Data/Install/MySql/PricelistExport.Cobalt.sql
+/src/Storefront.Commerce/App_Data/Install/MySql/PricelistExport.Default.sql
+/src/Storefront.Commerce/App_Data/Install/MySql/PricelistExport.Diamond.sql
+/src/Storefront.Commerce/App_Data/Install/MySql/PricelistExport.Gold.sql
+/src/Storefront.Commerce/App_Data/Install/MySql/PricelistExport.Platinum.sql
+/src/Storefront.Commerce/App_Data/Install/MySql/PricelistExport.Pricelist 1.sql
+/src/Storefront.Commerce/App_Data/Install/MySql/PricelistExport.Pricelist 10.sql
+/src/Storefront.Commerce/App_Data/Install/MySql/PricelistExport.Pricelist 2.sql
+/src/Storefront.Commerce/App_Data/Install/MySql/PricelistExport.Pricelist 3.sql
+/src/Storefront.Commerce/App_Data/Install/MySql/PricelistExport.Pricelist 4.sql
+/src/Storefront.Commerce/App_Data/Install/MySql/PricelistExport.Pricelist 5.sql
+/src/Storefront.Commerce/App_Data/Install/MySql/PricelistExport.Pricelist 6.sql
+/src/Storefront.Commerce/App_Data/Install/MySql/PricelistExport.Pricelist 7.sql
+/src/Storefront.Commerce/App_Data/Install/MySql/PricelistExport.Pricelist 8.sql
+/src/Storefront.Commerce/App_Data/Install/MySql/PricelistExport.Pricelist 9.sql
+/src/Storefront.Commerce/App_Data/Install/MySql/PricelistExport.Silver.sql
+/src/Storefront.Commerce/App_Data/Install/MySql/PricelistExport.Tanzanite.sql
+/src/Storefront.Commerce/App_Data/Install/MySql/PricelistExport.Titanium.sql
+/mysql/Install/Catalogue.sql
+/HYPERLI.txt
+/src/Storefront.Commerce/App_Data/Logs/*
+/src/Storefront.Commerce/App_Data/MySql/Connection Strings
+/src/Storefront.Commerce/Properties/PublishProfiles/*.pubxml
+/src/Storefront.Central/Server/Database.config
+/src/Storefront.Central/Server/Database.Debug.config
+/src/Storefront.Central/Server/Database.Release.config
+*.pubxml
+/src/.vs/App/v15/Server/sqlite3/db.lock
+/src/.vs/App/v15/Server/sqlite3/storage.ide
+/src/.vs/App/v15/Server/sqlite3/storage.ide-shm
+/src/.vs/App/v15/Server/sqlite3/storage.ide-wal
+/src/Storefront.Commerce/node_modules
+/src/Storefront.Commerce/App_Data/Application_Errors
+/src/Storefront.Commerce/App_Data/Application_Logs
+/src/Storefront.Commerce/uploadfiles
+/src/.vs/*
+*.dbtcache
+/src/Storefront.Central/Storefront.Central.SyncService/.vs/Storefront.Central.SyncService/v15/Server/sqlite3/db.lock
+/src/Storefront.Central/Storefront.Central.SyncService/.vs/Storefront.Central.SyncService/v15/Server/sqlite3/storage.ide
+/src/Storefront.Central/Storefront.Central.SyncService/.vs/Storefront.Central.SyncService/v15/Server/sqlite3/storage.ide-shm
+/src/Storefront.Central/Storefront.Central.SyncService/.vs/Storefront.Central.SyncService/v15/Server/sqlite3/storage.ide-wal
+/src/Storefront.Commerce/XmlImportLogs
+/src/Storefront.Commerce/import.xml
+/src/Storefront.Commerce/UploadedFiles
+
+# Visual Studio 2017 & 2019 IDE temp files specific to your machine.
+.vs
+
+# Jetbrains Rider IDE temp files specific to your machine
+.idea
+src/Storefront.Setups/Storefront.Setups.Default/ClientApp/node_modules
+src/node_modules
+src/Server/Storefront.Central/Storefront.Accounts/ClientApp
+/src/Storefront.Central/Web/Storefront.Central.Web.Admin.Client

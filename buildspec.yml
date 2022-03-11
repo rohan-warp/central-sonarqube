@@ -1,0 +1,20 @@
+version: 0.2
+env:
+  variables:
+    SOLUTION: .\src\Server\Storefront.Central\Storefront.Central.sln
+    PROJECT: Storefront.Accounts
+phases:
+  pre_build:
+    commands:
+      - echo Nothing to do in the pre_build phase...
+  build:
+    commands:
+      - dir
+      - echo Build started on `date`
+      - docker-compose build
+  post_build:
+    commands:
+      - echo Build completed on `date`
+artifacts:
+  files:
+    - '**/*'

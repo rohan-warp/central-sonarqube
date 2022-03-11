@@ -1,0 +1,13 @@
+version: '3.4'
+
+services:
+  storefront.admin:
+    build:
+      context: .
+      dockerfile: ./src/Storefront.Central/Web/Storefront.Central.Web.Admin/Dockerfile
+
+  storefront.merchant:
+    build:
+      context: .
+      dockerfile: ./src/Storefront.Central/Web/Storefront.Central.Web.Merchant/Dockerfile
+
